@@ -1,7 +1,6 @@
 # heading
 ## subheading
-this is a paragraph
-
+As I was creating my folder in the Visual Studio Code
 **bold text**
 
 *italicized text*
