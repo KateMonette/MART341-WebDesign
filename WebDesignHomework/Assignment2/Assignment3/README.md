@@ -1,6 +1,7 @@
 # heading
 ## subheading
 As I was creating my folder in the Visual Studio Code
+
 **bold text**
 
 *italicized text*
