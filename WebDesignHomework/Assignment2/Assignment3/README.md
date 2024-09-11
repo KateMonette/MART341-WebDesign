@@ -13,4 +13,4 @@ a list:
   
 [link to assignment 3](https://github.com/KateMonette/MART341-WebDesign/tree/main/WebDesignHomework/Assignment2/Assignment3)
 
-![equation for image](imageurl) 
+![assignment3 image](assignment3screenshot) 
