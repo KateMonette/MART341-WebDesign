@@ -9,4 +9,5 @@ a list:
 - 3
   
 [link to assignment 3](link)
+
 ![equation for image](imageurl) 
