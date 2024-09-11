@@ -13,5 +13,6 @@ a list:
   
 [link to assignment 3](https://github.com/KateMonette/MART341-WebDesign/tree/main/WebDesignHomework/Assignment2/Assignment3)
 
-![assignment 3 image](./Assignment3screenshot.png) 
+![assignment 3 image](<img width="1440" alt="assignment3screenshot" src="https://github.com/user-attachments/assets/1ff907a5-a332-4ec5-8609-219f07c9bcc3">
+) 
 
