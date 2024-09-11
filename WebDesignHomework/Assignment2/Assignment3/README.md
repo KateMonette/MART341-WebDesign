@@ -13,4 +13,4 @@ a list:
   
 [link to assignment 3](https://github.com/KateMonette/MART341-WebDesign/tree/main/WebDesignHomework/Assignment2/Assignment3)
 
-![youtube logo](https://t3.ftcdn.net/jpg/06/34/31/96/360_F_634319630_txtgmPLEEQ8o4zaxec2WKrLWUBqdBBQn.jpg)
+![youtube logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dyoutube%2Blogo&psig=AOvVaw1KuQjjJ_gjXI06lXx1i7UP&ust=1726183738304000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICE_OGFvIgDFQAAAAAdAAAAABAE) 
