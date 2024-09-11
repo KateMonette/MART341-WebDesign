@@ -13,4 +13,4 @@ a list:
   
 [link to assignment 3](https://github.com/KateMonette/MART341-WebDesign/tree/main/WebDesignHomework/Assignment2/Assignment3)
 
-![youtube logo](./https://www.google.com/imgres?q=university%20of%20montana%20logo&imgurl=https%3A%2F%2Ffindvectorlogo.com%2Fwp-content%2Fuploads%2F2020%2F04%2Funiversity-of-montana-vector-logo.png&imgrefurl=https%3A%2F%2Ffindvectorlogo.com%2Funiversity-of-montana-vector-logo-svg%2F&docid=TgHWJko38sYh1M&tbnid=G3oA1A8xfQ1okM&vet=12ahUKEwjVkcHJhryIAxWzATQIHQ53AKcQM3oECGsQAA..i&w=900&h=500&hcb=2&ved=2ahUKEwjVkcHJhryIAxWzATQIHQ53AKcQM3oECGsQAA)
+![youtube logo](./img/github-icon.png)
