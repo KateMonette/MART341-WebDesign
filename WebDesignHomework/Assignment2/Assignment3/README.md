@@ -11,6 +11,6 @@ a list:
 - 2
 - 3
   
-[link to assignment 3]([link](https://github.com/KateMonette/MART341-WebDesign/tree/main/WebDesignHomework/Assignment2/Assignment3))
+[link to assignment 3](https://github.com/KateMonette/MART341-WebDesign/tree/main/WebDesignHomework/Assignment2/Assignment3))
 
 ![equation for image](imageurl) 
