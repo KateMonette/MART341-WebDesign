@@ -13,4 +13,5 @@ Things I'm excited to learn in this class:
   
 [link to assignment 3](https://github.com/KateMonette/MART341-WebDesign/tree/main/WebDesignHomework/Assignment2/Assignment3)
 
-![image](https://github.com/user-attachments/assets/6cbd4488-b559-4e64-a3c8-25e0d86d7cd0)
+![image](https://github.com/user-attachments/assets/303e51a7-239d-4941-9b24-f8e6168cc1f2)
+
