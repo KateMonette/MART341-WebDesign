@@ -13,4 +13,4 @@ Things I'm excited to learn in this class:
   
 [link to assignment 3](https://github.com/KateMonette/MART341-WebDesign/tree/main/WebDesignHomework/Assignment2/Assignment3)
 
-![youtube logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dyoutube%2Blogo&psig=AOvVaw1sLnx8IdwDq-fQP6HEH1ti&ust=1726199534588000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiCu8LAvIgDFQAAAAAdAAAAABAE)
+![youtube logo](![image](https://github.com/user-attachments/assets/6cbd4488-b559-4e64-a3c8-25e0d86d7cd0)
