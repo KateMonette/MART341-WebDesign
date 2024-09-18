@@ -18,4 +18,10 @@ HTML, XML, XHTML—what sets them apart?
 
 What are the four essential elements every HTML page needs?
 
-- <! DOCTYPE >, < root >, < head >, < body > 
+- <! DOCTYPE >
+
+- < root >
+
+- < head >
+
+- < body > 
