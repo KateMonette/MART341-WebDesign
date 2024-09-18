@@ -12,7 +12,7 @@ HTML, XML, XHTML—what sets them apart?
 
 - HTML: the standard language used to create web pages. Provides structure using elements to create headings, paragraphs, lists, tables, links, etc.
 
-- XML: extensible markup language. Similar to HTML by using tags to markup a documents in order to display information. However to language is extensible and allows tags to define themselves and describe content.
+- XML: extensible markup language. Similar to HTML by using tags to markup documents in order to display information. However the language is extensible and allows tags to define themselves and describe content.
 
 - XHTML: stricter, more XML based version of HTML, defined as an XML application, and supported by all major browsers 
 
