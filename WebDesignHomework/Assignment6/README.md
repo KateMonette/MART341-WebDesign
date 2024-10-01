@@ -1,0 +1,1 @@
+The website idea I chose to expand on was the cooking blog. I chose this idea because I love to cook and I want to be able to document my recipes. The tone of the website will be light and playful. 
