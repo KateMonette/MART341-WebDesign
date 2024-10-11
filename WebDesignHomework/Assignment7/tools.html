@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <th scope="row">Cheese grater</th>
-      <td>To grate the paremesan cheese</td>
+      <td>To grate the parmesan cheese</td>
       <td><input type="checkbox" id="task3"></td>
     </tr>
     <tr>
@@ -59,3 +59,22 @@
       <td><input type="checkbox" id="task4"></td>
     </tr>
   </table>
+
+  <form action="mailto:kate.monette@umconnect.umt.edu" method="post" enctype="text/plain">
+    <h3 style="text-align: center;">Suggest a Recipe</h3>
+    <fieldset>
+       <legend>Recipe Suggestion</legend>
+       <label>Your Email:<br />
+          <input type="email" name="email" required /></label>
+       <br />
+       <label>Suggested Recipe:<br />
+          <input type="text" name="activity" required /></label>
+       <br />
+       <label>Description of the Recipe:<br />
+          <textarea name="recipe" rows="4" cols="50" placeholder="Describe recipe here..." required></textarea></label>
+    </fieldset>
+    
+    <br/>
+    
+    <input type="submit" value="Submit Suggestion" />
+ </form>
