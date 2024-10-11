@@ -1,0 +1,1 @@
+Each week as we learn more about creating websites, it becomes more exciting to see my progress. For assignment 7, I am most proud of my color scheme and the pictures I chose. I think it all goes really well together and I'm excited to expand on it!
