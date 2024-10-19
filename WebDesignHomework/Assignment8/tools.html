@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cooking With Kate</title>
+   
+<style>
+
+    body {background-color: rgb(153, 195, 153)}
+    h1 {color: rgb(0, 100, 0)}
+    h3 {color: rgb(85, 107, 47)}    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #014f20;
+      padding: 8px;
+    }
+    th {
+      background-color: #52925f;
+      color: white;
+    }
+    tr:nth-child(even) {
+      background-color: #afd5b5;
+    }
+  </style>
+
+    <a style="float: right; padding: 10px" href="tools.html">TOOLS</a>
+    <a style="float: right; padding: 10px" href="recipes.html">RECIPES</a>
+
+    <h1 style="text-align: center;">Cooking With Kate!</h1>
+
+    <h3 style="text-align: center;">Cooking Tools</h3>
+  
+  <table>
+    <tr>
+      <th></th>
+      <th scope="col">Tools</th>
+      <th scope="col">Status</th>
+    </tr>
+    <tr>
+      <th scope="row">Knife</th>
+      <td>Useful for chopping ingredients</td>
+      <td><input type="checkbox" id="task1"></td>
+    </tr>
+    <tr>
+      <th scope="row">Chopping board</th>
+      <td>To keep everything on a clean surface</td>
+      <td><input type="checkbox" id="task2"></td>
+    </tr>
+    <tr>
+      <th scope="row">Cheese grater</th>
+      <td>To grate the parmesan cheese</td>
+      <td><input type="checkbox" id="task3"></td>
+    </tr>
+    <tr>
+      <th scope="row">Measuring cups</th>
+      <td>To measure dry ingredients</td>
+      <td><input type="checkbox" id="task4"></td>
+    </tr>
+  </table>
+
+  <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhtebdRGSWKNiOfA8kziWMece9Irv2LKx4OjqRRMo___WNVxzqlS2xWnFoAMYEwq94ZB_pZihC47rUVW_ciagTG0DCVAGLROij1DZCwd8j" width="30%" style="height: 40%;"/>
+  <img src="https://i0.wp.com/www.wildwood.com.au/wp-content/uploads/2022/09/308469400_771449633934582_3099246510845128992_n.jpg?fit=1440%2C1440&ssl=1" width="20%"/>
+  <img src="https://cdn-bdcme.nitrocdn.com/YNVexMBpWKXfKFQpHsdWUgFTQYBFJoCh/assets/images/optimized/rev-f0a0aa3/kidsaregreatcooks.com/wp-content/uploads/2020/06/Grater-sm-1024x683.jpeg" width="20%"/>
+  <img src="https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/best-measuring-cups-and-spoons-for-your-cooking-tasks-section-4.jpg" width="20%"/>
+
+  <form action="mailto:kate.monette@umconnect.umt.edu" method="post" enctype="text/plain">
+    <h3 style="text-align: center;">Suggest a Recipe</h3>
+    <fieldset>
+       <legend>Recipe Suggestion</legend>
+       <label>Your Email:<br />
+          <input type="email" name="email" required /></label>
+       <br />
+       <label>Suggested Recipe:<br />
+          <input type="text" name="activity" required /></label>
+       <br />
+       <label>Description of the Recipe:<br />
+          <textarea name="recipe" rows="4" cols="50" placeholder="Describe recipe here..." required></textarea></label>
+    </fieldset>
+    
+    <br/>
+    
+    <input type="submit" value="Submit Suggestion" />
+ </form>
+
+ <p>Head back to our <a href="recipes.html">Recipes</a> page for more recipes!</p>
