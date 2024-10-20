@@ -9,21 +9,21 @@ I used another span in the other recipe descriptions
 
 ## Audio (at least 1):
 
-I used an audio element to embed an audio file that users can listen to while cooking, with controls to play, pause, and loop the audio.
+I used an audio element to add a section where users can listen to music while they cook. 
 
 ## Video (at least 1):
 
-I originally planned to use a video element to display recipe videos, allowing users to watch video instructions directly on the page. Instead, I used a hero video.
+I used a hero video at the top of the Recipes section.  
 
 ## Iframe (at least 1):
 
-I used an iframe to embed an external cooking timer from another website, allowing users to set a timer directly within the webpage.
+I used an iframe to embed an external cooking timer from another website.
 
 ## Class (at least 2):
 
-I used the class nav to style the navigation links, ensuring consistent formatting across the navigation bar.
-I used the class media-item to structure the layout of the audio and timer sections, applying the same styles for spacing and alignment.
+I used the class nav so that the navigation links all have the same style. 
+I also used class so that the audio and timer sectionshave the same style as well. 
 
 ## Escape Character (at least 1):
 
-I used the &copy; escape character to display the copyright symbol (©) in the footer of the webpage, providing a legal symbol without using a special character.
+I used the &copy; escape character to display the copyright symbol (©) in the footer of the webpage. 
