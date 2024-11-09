@@ -5,9 +5,9 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: cursive;
-
+body { 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
 /* Navigation styling */
 nav {
     background-color: #d9f3f7;
@@ -76,8 +76,8 @@ blockquote {
 }
 
 #quote-author {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-    font-size: 1em;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    font-size:'Courier New', Courier, monospace 1em;
     color: black;
     margin-top: 5px;
 }
