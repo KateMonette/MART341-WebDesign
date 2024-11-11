@@ -19,8 +19,8 @@ h1 {
     color: rgb(47, 97, 107);
     text-align: center;
     font-size: 2.5em;
-    font-weight: 300;
-    font-style: italic;
+    font-weight: 700;
+    font-style: bold;
     margin-top: 20px;
 }
 
@@ -28,8 +28,8 @@ h2 {
     font-family: 'Cormorant Garamond', serif;
     color: rgb(47, 97, 107);
     text-align: left;
-    font-weight: 300;
-    font-style: italic;
+    font-weight: 500;
+    font-style: bold;
     font-size: 1.8em;
     margin: 20px 0;
 }
