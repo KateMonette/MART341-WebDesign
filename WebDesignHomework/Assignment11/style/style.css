@@ -5,17 +5,17 @@
     box-sizing: border-box;
 }
 
+
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f0f4f8;
-    color: #333;
+    background-color: #cef3fb;
+    color: #045388;
     line-height: 1.6;
-}
 
 /* Header Styles */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #e0f6ff;
+    color: #85bffa;
     padding: 1rem;
     text-align: center;
 }
@@ -52,7 +52,7 @@ main {
 }
 
 main h2 {
-    color: #333;
+    color: #045388;
     margin-bottom: 1rem;
 }
 
@@ -81,7 +81,7 @@ main p {
 
 /* Footer Styles */
 footer {
-    background-color: #333;
+    background-color: #045388;
     color: #fff;
     text-align: center;
     padding: 1rem;
