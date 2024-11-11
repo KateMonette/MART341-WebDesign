@@ -1,16 +1,78 @@
-<div class="header">
-  <h2>Header</h2>
-</div>
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-<div class="row">
-  <div class="column" style="background-color:#aaa;">Column</div>
-  <div class="column" style="background-color:#bbb;">Column</div>
-  <div class="column" style="background-color:#ccc;">Column</div>
-</div>
+/* Body styles */
+body {
+    font-family: 'Arial', sans-serif; /* Change to a different font if desired */
+    line-height: 1.6;
+    background-color: #e9ecef; /* Light background for the whole page */
+}
 
-<div class="footer">
-  <p>Footer</p>
-</div>
+/* Header styles */
+header {
+    background-color: #007bff; /* Blue background for header */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
 
-</body>
-</html>
+/* Container */
+.container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+/* Column styles */
+.column {
+    flex: 1; /* Take up equal space in the row */
+    margin: 10px; /* Spacing between columns */
+    padding: 20px;
+    background-color: #ffffff; /* White background for columns */
+    color: #333; /* Dark text color */
+    border: 1px solid #ccc; /* Light border for visibility */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Soft shadow for effect */
+}
+
+/* Image styles */
+.img-side {
+    flex-basis: 150px; /* Fixed width for images */
+    margin: 10px; /* Spacing around images */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Divider styles */
+hr {
+    margin: 20px 0; /* Space around dividers */
+    border: 0; /* Remove default border */
+    height: 1px; /* Height of the divider */
+    background-color: #ccc; /* Divider color */
+}
+
+/* Media query for responsiveness */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column; /* Stack columns on smaller screens */
+    }
+    .img-side {
+        flex-basis: auto; /* Allow images to adjust on small screens */
+    }
+}
+
+/* Footer styles */
+footer {
+    background-color: #333; /* Dark background for footer */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px; /* Space above footer */
+    position: relative; /* Positioning for potential future enhancements */
+}
