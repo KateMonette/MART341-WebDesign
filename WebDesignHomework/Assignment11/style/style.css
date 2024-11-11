@@ -1,90 +1,86 @@
-/* Global Styles */
-* {
+/* Importing Google Fonts for styling */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Merriweather:wght@400;700&display=swap');
+
+/* Base Styles */
+body {
+    background-color: rgb(196, 231, 239);
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    color: #2f616b;
 }
 
+/* Navigation Links */
+nav a {
+    float: right;
+    padding: 10px;
+    text-decoration: none;
+    color: #2f616b;
+    font-weight: 400;
+    font-size: 1em;
+}
 
-body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #cef3fb;
-    color: #045388;
+/* Header and Titles */
+h1 {
+    text-align: center;
+    color: rgb(47, 97, 107);
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+}
+
+h2 {
+    color: rgb(47, 97, 107);
+    text-align: left;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+}
+
+/* Paragraph Styling */
+p {
+    text-align: left;
+    font-weight: 300;
     line-height: 1.6;
 }
 
-/* Header Styles */
-header {
-    background-color: #e0f6ff;
-    color: #85bffa;
-    padding: 1rem;
+/* Blockquote Styling */
+blockquote {
     text-align: center;
+    font-style: italic;
+    font-family: 'Merriweather', serif;
+    color: #2f616b;
 }
 
-header h1 {
-    font-weight: 700;
-    font-size: 2rem;
+/* Image Styling */
+img {
+    width: 30%;
+    height: auto;
+    margin: 10px;
 }
 
-nav ul {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    margin-top: 0.5rem;
-}
-
-nav ul li {
-    margin: 0 1rem;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9em;
+    color: #2f616b;
     font-weight: 400;
 }
 
-nav ul li a:hover {
+/* Additional Links */
+a {
+    color: #2f616b;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1d4d55;
     text-decoration: underline;
 }
 
-/* Main Content Styles */
-main {
-    padding: 2rem;
-}
-
-main h2 {
-    color: #045388;
-    margin-bottom: 1rem;
-}
-
-main p {
-    margin-bottom: 2rem;
-}
-
-/* Gallery Styles */
-.gallery {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-.gallery img {
-    width: 150px;
-    height: 150px;
-    border-radius: 8px;
-    transition: transform 0.3s ease;
-}
-
-.gallery img:hover {
-    transform: scale(1.1);
-}
-
-/* Footer Styles */
-footer {
-    background-color: #045388;
-    color: #fff;
-    text-align: center;
-    padding: 1rem;
-    margin-top: 2rem;
+/* Clear floats */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
