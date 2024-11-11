@@ -7,16 +7,17 @@
 
 /* Body styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif; /* Change to a different font if desired */
     line-height: 1.6;
+    background-color: #e9ecef; /* Light background for the whole page */
 }
 
 /* Header styles */
 header {
-    background-color: #333;
+    background-color: #007bff; /* Blue background for header */
     color: #fff;
     text-align: center;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 
 /* Container */
@@ -33,9 +34,11 @@ header {
     flex: 1; /* Take up equal space in the row */
     margin: 10px; /* Spacing between columns */
     padding: 20px;
-    background-color: #f4f4f4; /* Light grey background */
+    background-color: #ffffff; /* White background for columns */
+    color: #333; /* Dark text color */
     border: 1px solid #ccc; /* Light border for visibility */
     border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Soft shadow for effect */
 }
 
 /* Image styles */
@@ -44,6 +47,14 @@ header {
     margin: 10px; /* Spacing around images */
     padding: 20px;
     text-align: center;
+}
+
+/* Divider styles */
+hr {
+    margin: 20px 0; /* Space around dividers */
+    border: 0; /* Remove default border */
+    height: 1px; /* Height of the divider */
+    background-color: #ccc; /* Divider color */
 }
 
 /* Media query for responsiveness */
@@ -58,9 +69,10 @@ header {
 
 /* Footer styles */
 footer {
-    background-color: #333;
+    background-color: #333; /* Dark background for footer */
     color: #fff;
     text-align: center;
     padding: 10px 0;
     margin-top: 20px; /* Space above footer */
+    position: relative; /* Positioning for potential future enhancements */
 }
