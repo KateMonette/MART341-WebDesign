@@ -4,7 +4,7 @@
 /* General styles */
 body {
     background-color: rgb(196, 231, 239);
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0;
     padding: 0;
     color: rgb(47, 97, 107);
@@ -16,6 +16,7 @@ h1 {
     font-size: 2.5em;
     font-weight: 600;
     margin-top: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h2 {
@@ -32,14 +33,14 @@ p {
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.6;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 blockquote {
     text-align: center;
     font-size: 1.2em;
     font-weight: 300;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 20px;
     color: rgb(60, 111, 121);
 }
@@ -75,6 +76,7 @@ img:hover {
 
 /* Footer */
 footer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     padding: 15px 0;
     font-size: 1em;
