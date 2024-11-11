@@ -3,44 +3,44 @@
 
 /* General styles */
 body {
-    background-color: rgb(196, 231, 239);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(196, 231, 239);
     margin: 0;
     padding: 0;
     color: rgb(47, 97, 107);
 }
 
 h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(47, 97, 107);
     text-align: center;
     font-size: 2.5em;
     font-weight: 600;
     margin-top: 20px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(47, 97, 107);
     text-align: left;
     font-weight: 400;
     font-size: 1.8em;
     margin: 20px 0;
-    font-family:Georgia, 'Times New Roman', Times, serif ;
 }
 
 p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.6;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 blockquote {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     font-size: 1.2em;
     font-weight: 300;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 20px;
     color: rgb(60, 111, 121);
 }
