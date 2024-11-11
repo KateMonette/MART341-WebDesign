@@ -1,0 +1,66 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Container */
+.container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+/* Column styles */
+.column {
+    flex: 1; /* Take up equal space in the row */
+    margin: 10px; /* Spacing between columns */
+    padding: 20px;
+    background-color: #f4f4f4; /* Light grey background */
+    border: 1px solid #ccc; /* Light border for visibility */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Image styles */
+.img-side {
+    flex-basis: 150px; /* Fixed width for images */
+    margin: 10px; /* Spacing around images */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Media query for responsiveness */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column; /* Stack columns on smaller screens */
+    }
+    .img-side {
+        flex-basis: auto; /* Allow images to adjust on small screens */
+    }
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px; /* Space above footer */
+}
