@@ -82,40 +82,13 @@ img:hover {
 }
 
 /* Footer styling */
-.footer {
-    padding: 20px;
-    background-color: #f8f8f8; /* Optional: footer background color */
-    text-align: center;
-    font-family: Arial, sans-serif; /* Optional: font style */
-}
-
-.footer-text {
-    text-align: left;
-    margin: 0 0 10px 0;
-    font-size: 1rem;
-}
-
-.footer-text a {
-    margin-right: 10px;
-    text-decoration: none;
-    color: #0077cc; /* Optional: link color */
-}
-
-.footer-text a:hover {
-    text-decoration: underline;
-}
-
-.profile-image {
-    width: 1in;
-    height: 1in;
-    display: block;
-    margin: 10px auto;
-    border-radius: 50%; /* Optional: makes image circular */
-}
-
-.footer-copyright {
-    margin: 15px 0 0 0;
-    font-size: 0.9rem;
-    color: #666; /* Optional: copyright text color */
+footer {
+   font-family: 'Cormorant Garamond', serif;
+   text-align: left;
+   font-size: 1em;
+   font-weight: 300;
+   font-style: normal;
+   margin: 20px;
+   color: rgb(60, 111, 121);
 }
 
