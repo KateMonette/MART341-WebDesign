@@ -2,14 +2,13 @@
 .cormorant-garamond-light-italic {
     font-family: 'Cormorant Garamond', serif;
     font-weight: 500;
-    font-style: italic;
   }
 
 /* General styles */
 body {
     font-family: 'Cormorant Garamond', serif;
     background-color: rgb(196, 231, 239);
-    margin: 0;
+    margin: 20px;
     padding: 0;
     color: rgb(47, 97, 107);
 }
@@ -17,7 +16,7 @@ body {
 h1 {
     font-family: 'Cormorant Garamond', serif;
     text-align: center;
-    font-size: 1.2em;
+    font-size: 6em;
     font-weight: 700;
     font-style: italic;
     margin: 20px;
@@ -27,7 +26,7 @@ h1 {
 h2 {
     font-family: 'Cormorant Garamond', serif;
     text-align: center;
-    font-size: 1.2em;
+    font-size: 6em;
     font-weight: 600;
     font-style: italic;
     margin: 20px;
@@ -37,15 +36,16 @@ h2 {
 p {
     font-family: 'Cormorant Garamond', serif;
     text-align: left;
-    font-size: 1.1em;
+    font-size: 4em;
     font-weight: 500;
     line-height: 1.6;
+    margin: 20px;
 }
 
 blockquote {
     font-family: 'Cormorant Garamond', serif;
     text-align: center;
-    font-size: 1.2em;
+    font-size: 3em;
     font-weight: 300;
     font-style: italic;
     margin: 20px;
@@ -84,10 +84,10 @@ img:hover {
 /* Footer */
 footer {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1em;
-    font-weight: 300;
-    font-style: italic;
-    color: rgb(47, 97, 107);
     text-align: center;
-    padding: 15px 0;
+    font-size: 3em;
+    font-weight: 300;
+    margin: 20px;
+    color: rgb(47, 97, 107);
+    
     }
