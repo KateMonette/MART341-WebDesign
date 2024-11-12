@@ -1,4 +1,4 @@
-/* Import Google Fonts */
+/* Import Google Fonts */ 
 .cormorant-garamond-light-italic {
     font-family: 'Cormorant Garamond', serif;
     font-weight: 500;
@@ -36,7 +36,7 @@ h2 {
 p {
     font-family: 'Cormorant Garamond', serif;
     text-align: left;
-    font-size:small;
+    font-size:medium;
     font-weight: 500;
     line-height: 1.6;
     margin: 20px;
@@ -85,7 +85,7 @@ img:hover {
 footer {
     font-family: 'Cormorant Garamond', serif;
     text-align: center;
-    font-size:x-small;
+    font-size:medium;
     font-weight: 300;
     font-style:normal;
     margin: 20px;
