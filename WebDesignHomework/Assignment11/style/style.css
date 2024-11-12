@@ -78,7 +78,7 @@ img {
 }
 
 img:hover {
-    transform: scale(2);
+    transform: scale(1.5);
 }
 
 /* Footer */
@@ -90,5 +90,4 @@ footer {
     font-style:normal;
     margin: 20px;
     color: rgb(60, 111, 121);
-    
     }
