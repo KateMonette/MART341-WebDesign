@@ -58,7 +58,7 @@ a {
     padding: 10px 15px;
     font-weight: 400;
     color: rgb(47, 97, 107);
-    text-decoration: none;
+    text-decoration:dotted;
     transition: color 0.3s ease, background-color 0.3s ease;
 }
 
@@ -85,7 +85,7 @@ img:hover {
 footer {
     font-family: 'Cormorant Garamond', serif;
     text-align: center;
-    font-size: 2em;
+    font-size: 3em;
     font-weight: 300;
     font-style:normal;
     margin: 20px;
