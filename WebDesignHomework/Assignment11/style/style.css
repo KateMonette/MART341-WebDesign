@@ -84,10 +84,10 @@ img:hover {
 /* Footer */
 footer {
     font-family: 'Cormorant Garamond', serif;
-    text-align: center;
-    padding: 15px 0;
     font-size: 1em;
     font-weight: 300;
     font-style: italic;
     color: rgb(47, 97, 107);
-}
+    text-align: center;
+    padding: 15px 0;
+    }
