@@ -1,0 +1,3 @@
+# Final Project
+
+For my final project I have continued to work on my TRAVELOG website. This is the website I am most proud of out of all of the assignments this semester, which is why I chose to make it my final project. My website includes 4 pages with a well-organized layout as well as an external stylesheet. I've incorporated a different font and italicized certain parts of the text. On each page I have incorporated many different photos from my travels and also embedded hawaiian music to the gallery page. 
